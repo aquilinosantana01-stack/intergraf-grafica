@@ -98,9 +98,6 @@ Desarrollar aplicaciones de escritorio utilizando Windows Forms para fortalecer 
 
 ---
 
-## Autor
-
-Carlos Manuel Silvestre Gil
 
 Universidad Central del Este (UCE)
 
